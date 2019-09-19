@@ -1,0 +1,36 @@
+P {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align-last: center;
+}
+
+h2{
+    color: rgb(111, 0, 255);
+   
+}
+
+
+a:link {
+    
+    color: red;
+}
+/*
+a:visited {
+    
+    color: blue;
+}*/
+
+a:hover
+{
+    color: red;
+}
+
+body {
+    color: black;
+}
+
+
+img src
+{
+    height="300"
+}
